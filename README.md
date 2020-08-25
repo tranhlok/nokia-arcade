@@ -1,14 +1,15 @@
 # nokia-arcade
 CS111 Final Project
-This is an old copy of my first ever CS project from 2018 //
+This is an old copy of my first ever CS project from 2018 
 
-I/ Title //
+I/ Title 
 
 - Title of the project: Nokia Arcade
 - Name: Tran Anh Loc
 - Date: December 10, 2018
 
-II/ Introduction //
+II/ Introduction 
+
 - Purpose: I want to do something fun with my final project.
 - Background: For this final project, I will do something different from what we have done
 in class. I’m not fascinated with data, graph or any kind of science – biology, chemistry,
@@ -22,11 +23,11 @@ that time and I immediately think about my dad’s old Nokia cellphone that has 
 coolest game at that time, including Snake and Ping Pong.
 
 - The problem is interesting because it is exactly what I wanted to do in the future: A
-game designer. //
+game designer. 
 
-III/ Methods //
+III/ Methods 
 
-1/ Overview //
+1/ Overview 
 
 The first game will be the ping pong game, where user will fight against computer in a
 paddle-hit-ball type of match. I will have to create code to automatically run the paddle
@@ -133,9 +134,9 @@ hit the opponent’s paddle, the ball will bounce by a different angle. This fun
 no return value.
 The main function simply calls all the function above and print out the score of user
 at the end of the game. It also has the code for the movement (how the computer
-transforms mouse motions into directions)//
+transforms mouse motions into directions)
 
-(b) The Snake Game //
+(b) The Snake Game 
 This game builds up from three different modules: pygame, random and time.
 This game has 6 class: Food, Snake, Game, ScoreBoard
 The code start by import pygame, random and time module, copy all names in
