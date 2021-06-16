@@ -1,6 +1,6 @@
 # nokia-arcade
 CS111 Final Project
-This is an old copy of my first ever CS project from 2018 
+This is an old copy of my intro to CS project from 2018 
 
 I/ Title 
 
