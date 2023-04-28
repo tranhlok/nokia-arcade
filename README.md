@@ -1,6 +1,6 @@
 # nokia-arcade
 This is an old copy of my intro to CS project from 2018 
-
+I don't think this is going to run due to package difference, but it's a good memory 4sure
 I/ Title 
 
 - Title of the project: Nokia Arcade
