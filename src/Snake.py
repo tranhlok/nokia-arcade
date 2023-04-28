@@ -2,13 +2,14 @@
 Nokia Arcade - A project by Lucas Tran
 Snake Part
 December 10, 2018
+I don't think this is going to run due to package difference, but it's a good memory 4sure
 '''
 import pygame
 import random
 from time import sleep
 from pygame.locals import*
 
-fieldimg = pygame.image.load('E:\\College\\Freshman\\First Semester\\CS 111\\Final Project\\field.jpg')
+fieldimg = pygame.image.load('../resources/field.jpg')
 
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)

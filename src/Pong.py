@@ -2,6 +2,7 @@
 Nokia Arcade - A project by Lucas Tran
 Ping Pong and UI part
 December 10, 2018
+I don't think this is going to run due to package difference, but it's a good memory 4sure
 '''
 import pygame
 import sys
@@ -10,7 +11,7 @@ from Snake import main as main_1
 
 pygame.init()
 
-fieldimg = pygame.image.load('E:\\College\\Freshman\\First Semester\\CS 111\\Final Project\\field2.jpg')
+fieldimg = pygame.image.load('..\resources\field2.jpg')
 
 window_height = 800
 window_width = 1000
